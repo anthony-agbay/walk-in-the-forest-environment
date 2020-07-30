@@ -1,0 +1,10 @@
+# For the environment definition
+nbgitpuller
+
+# Main 
+numpy
+matplotlib
+pandas
+scipy
+plotly
+ipywidgets
