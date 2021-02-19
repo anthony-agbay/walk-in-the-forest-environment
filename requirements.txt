@@ -8,3 +8,4 @@ pandas
 scipy
 plotly >= 4.14
 ipywidgets
+jupyterthemes
